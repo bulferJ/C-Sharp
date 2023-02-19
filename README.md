@@ -1,3 +1,7 @@
+This repo will contain my C# programs I am writing as I am learning this language
+
+
+
 # C-Task-Manager
 This will be a simple task managing program written in C# to practice learning this langauge.
 
